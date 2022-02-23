@@ -1,0 +1,495 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life &amp; death, travels and sufferings of Robert VVidders of Kellet in Lancashire who was one of the Lords worthies together with several testimonies of his neighbors and friends concerning him.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48409</idno>
+            <idno type="STC">Wing L2019</idno>
+            <idno type="STC">ESTC R30948</idno>
+            <idno type="EEBO-CITATION">11733820</idno>
+            <idno type="OCLC">ocm 11733820</idno>
+            <idno type="VID">48441</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48441)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1486:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life &amp; death, travels and sufferings of Robert VVidders of Kellet in Lancashire who was one of the Lords worthies together with several testimonies of his neighbors and friends concerning him.</title>
+               </titleStmt>
+               <extent>16 [i.e. 28] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Widers, Robert.</term>
+               <term>Society of Friends --  England.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48441:1"/>
+            <pb facs="tcp:48441:1" rendition="simple:additions"/>
+            <p>THE Life &amp; Death, TRAVELS AND SUFFERINGS OF <hi>Robert VVidders</hi> OF <hi>KELLET</hi> in <hi>LANCASHIRE;</hi> WHO Was one of the Lords Worthies, together with ſeveral Teſtimonies of his Neighbours and Friends concerning him.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48441:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:48441:2"/>
+            <head>
+               <hi>A Short Teſtimony of the Life, Travels, Sufferings, and Death of that Faithful Servant of the Lord,</hi> Robert Widders.</head>
+            <p>WHo was Born in <hi>
+                  <g ref="char:V">Ʋ</g>pper-Kellet</hi> in <hi>Lancaſhire,</hi> of honeſt ſub<g ref="char:EOLhyphen"/>ſtantial Parentage, who was a Seeker after the Lord, and the knowledge of his way, and wandred from Mountain to Hill, but could find no reſt nor ſatisfaction to my Soul, till it pleaſed the Lord God, that in the year 1652. Dear <hi>George Fox</hi> came into theſe parts, who informed my mind, and turned me to the Light of Chriſt Jeſus in my inward parts, which was comfort to me that had long ſat in darkneſs, and ſo I was convinced of Gods pure eternal Truth.</p>
+            <p>And in the year 1653. I and <hi>George Fox,</hi> and <hi>James Lancaſter</hi> paſſed into <hi>Cumberland,</hi> where I and <hi>James Lancaſter</hi> went to <hi>Emelton</hi> Steeple-houſe
+<note n="(1)" place="margin">Steeple-Houſe.</note> and I ſpoke to the Prieſt and People in publique, and charged them in the preſence of God, that if any of them could tell what would become of their Souls, if they ſhould be cut off that pre<g ref="char:EOLhyphen"/>ſent, let them then ſpeak; but never a one of them durſt open their Mouthes.</p>
+            <p>Then the next Firſt Day,
+<note n="(2)" place="margin">Steeple-Houſe.</note> I was moved to go to <hi>Coldbeck</hi> Steeple-houſe, where I ſpoke to Prieſt <hi>Hut<g ref="char:EOLhyphen"/>ton</hi> when he was in his High-place— And the rude people his Hearers did throw me down among the Seats, and drag<g ref="char:EOLhyphen"/>ged, and trailed me forth into the Yard, and threw me down up<g ref="char:EOLhyphen"/>on the Ground, and punſhed and beat me till the blood guſhed out at my mouth, and I lay for dead ſome time—But a woman took pity and held up my head, till my breath and life came to me again, as ſome ſaid that ſtood by: Ever bleſſed be the Lord God, who up<g ref="char:EOLhyphen"/>held and ſtrengthened me by his eternal power, that I was not diſ<g ref="char:EOLhyphen"/>mayed, nor diſcouraged.</p>
+            <p>For on the ſame day in the afternoon I went ſeven Miles to <hi>Ackton</hi> Steeple houſe,
+<note n="(3)" place="margin">Steeple-Houſe.</note> where I ſpoke to Prieſt <hi>Nicholls</hi> of <hi>Ackton</hi> in his High-place, and ſaid, <hi>Come
+<pb n="4" facs="tcp:48441:3"/>down thou Deceiver, thou enemy of Chriſt, the hand of the Lord is againſt thee</hi>—And one <hi>William Briſco</hi> of <hi>Crofton</hi> then preſent, a Juſtice, commanded the Conſtables to ſecure me; and after exa<g ref="char:EOLhyphen"/>mined me in the Prieſts Houſe; and the Prieſt <hi>Nicholls</hi> flattered and fawned upon me. And I told him, The Spirit of Perſecution lodged in him; he ſaid <hi>Nay,</hi> he was no ſuch man.</p>
+            <p>Then preſently after he ſaid to the Juſtice, I had ſtoln my Horſe, and that he could find in his heart to be my Executioner with his own hands.—Then I told him again, Did not I ſay unto thee, That the Spirit of Perſecution lodged in thee: So the ſaid Juſtice. <hi>Briſco</hi> made a Warrant to ſend me to <hi>Carlile</hi> Goal; and after he had given the Warrant to the Conſtable, he called me before him again, and asked me by what Authority, or Power, I came to Seduce and be<g ref="char:EOLhyphen"/>witch People.—I told him, I came not to Seduce and bewitch Peo<g ref="char:EOLhyphen"/>ple, but I came in that Power which ſhall make thee, and all the Powers of the Earth bend and bow before it (to wit) the mighty Power of God. And as I ſpake theſe words from the word, the Terrour and Dread of God took hold upon him, and ſm<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te his heart: Then he called for his Warrant again out of the Conſtables hand, and cauſed the Conſtable to put me on to a <hi>Moor,</hi> near Night.—So the Lord delivered me at that time.</p>
+            <p>But not long after was I moved of the Lord to go to the ſaid <hi>Ack<g ref="char:EOLhyphen"/>ton-Steeple Houſe</hi> again, where the ſaid Juſtice <hi>Briſco</hi> had Power to ſend me to the Common-Goal at <hi>Carlile;</hi>
+               <note n="(1)" place="margin">Priſon.</note> where I didly in the Dungeon among Thieves a long time, and never came out Night nor Day till I was releaſed.</p>
+            <p>Then afterwards I went to <hi>Lamplough Steeple-Houſe</hi> and ſpoke to the Prieſt,
+<note n="(4)" place="margin">Steeple-Houſe</note> and People; and they were very Rude, and tore the Hair off my Head, and rent my Coat.</p>
+            <p>And in the Afternoon the ſame Day, I went to another Steeple Houſe two Miles from thence,
+<note n="(5)" place="margin">Steeple-Houſe.</note> and ſpoke to the Prieſt: but he went away and would not ſtay.</p>
+            <p>Afterward I was with <hi>G.</hi>
+               <note n="(6)" place="margin">Steeple-Houſe.</note> 
+               <hi>F.</hi> in <hi>Scotland,</hi> and went there to a Steeple-Houſe, called, <hi>New Munckland.</hi>
+            </p>
+            <p>Likewiſe, as I came back, I was at a Steeple Houſe in <hi>Northumberland,</hi>
+               <note n="(7)" place="margin">Steeple-Houſe.</note> and there ſpoke to the People: And one <hi>Henry Harbuttle</hi> and his Wife were Con<g ref="char:EOLhyphen"/>vinced that Day.</p>
+            <pb n="5" facs="tcp:48441:3"/>
+            <p>And in <hi>Biſhoprick</hi> I was at ſeveral Steeple-Houſes. And in <hi>Biſhopaukland</hi> I ſpeaking thorow the Town,
+<note place="margin">Several Stee<g ref="char:EOLhyphen"/>ple-Houſes.</note> the People ſtoned me with Stones, and bruiſed my Head very Sore.</p>
+            <p>And likewiſe in <hi>York-ſhire,</hi> where particularly I was at a Steeple-Houſe near <hi>Skipton,</hi> and ſpoke to Prieſt <hi>Webſter,</hi> and bid him come down thou Inchanter, for he was a falſe Man, for he had been partly convinced and turned back again, <hi>Simon Magus</hi> like. I alſo ſpoke to the people, and to one Juſtice <hi>Coats,</hi> a moderate man then being preſent: And I directed them to the Word of God in the heart, which divided between the precious and the vile.</p>
+            <p>And then I went to a Moor ſide, where a few Friends were gather<g ref="char:EOLhyphen"/>ed together; and I ſat down among them, and it was immediately revealed to me, that the ſaid Juſtice <hi>Coats</hi> would ſend for me.—And preſently there came many Horſe men and Foot, and ſaid I muſt go before the Juſtice, who examined me, and ſaid I had broken the Law in diſturbing the Miniſter and People, and he might ſend me to Gaol at <hi>York</hi> Caſtle.—I Anſwered, Send me to <hi>York</hi> Caſtle if thou durſt; for to that of God in thy Conſcience am I made manifeſt. Then ſaid he, I neither dare nor will: So took me by the Hand, and told me, I might take my own time.—And ſo the Lord preſerved and delivered me, for which I praiſe his Holy Name.</p>
+            <p>And alſo, I was at ſeveral Steeple Houſes in <hi>Lanca<g ref="char:EOLhyphen"/>ſhire,</hi> as <hi>Warton, Halton, Kellet,</hi> and <hi>Arkholm</hi> Chapel,
+<note place="margin">Lancaſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire Steeple-Houſe.</note> where at <hi>Arkholm</hi> the People were like to Fight; and I ſtanding in the Chapel Door held up my Hand and ſpoke to the Prieſt to come forth and take up the People, they will needs Fight, they being in the Dogs Nature.</p>
+            <p>And at the Aſſize time at <hi>Lancaſter,</hi> I went to the Steeple Houſe and ſpoke to the Prieſt, whilſt he was Preaching before the Judges; and the Prieſt was all in a Fright, and Smitten, and broke Up, and the People in a haſt hurried out.</p>
+            <p>So the Lord God everlaſtingly Delivered, Kept, and Preſerved me by his Everlaſting Power in all my Travels, and Exerciſes of this kind; Bleſſed be his Holy Glorious Name for ever.</p>
+         </div>
+         <div type="account">
+            <pb n="6" facs="tcp:48441:4"/>
+            <head>Here followeth a Breviate of the Heads of the great and ſore Sufferings of this Faithful follower of the Lord, <hi>Robert Widders,</hi> both in Body, and Goods, for Tithes, for Sunday Shillings, (ſo called) and for Meetings by the Act againſt Conventicles, keeping the Teſtimony of Jeſus, and his Conſci<g ref="char:EOLhyphen"/>ence clear in the ſight of God.</head>
+            <p>IN the Year 1654. Prieſt <hi>Schoolcroft</hi> of <hi>Caton</hi> in the County of <hi>Lancaſter,</hi> being concerned in the Tyth of <hi>
+                  <g ref="char:V">Ʋ</g>pper Kellet,</hi> did run <hi>Robert Widders</hi> to an Outlawry, and by a Writ caſt him into Priſon at <hi>Lancaſter</hi> Caſtle, where he remained Priſoner about one year and an half, and then was freed by <hi>Superſedeas.</hi> And alſo the Farmer of the Outlawyrs came and made Diſtreſs for a Fine.</p>
+            <p>And they came again the ſecond time and entred me for an Out<g ref="char:EOLhyphen"/>lawry, but the Prieſt died; ſo that came to nothing.</p>
+            <p>And after that one <hi>William Atkinſon</hi> being Farmer of Tythes of the ſaid <hi>
+                  <g ref="char:V">Ʋ</g>pper Kellet,</hi>
+               <note place="margin">Sufferings for Tythes.</note> ſued me at the Common Law for ſeveral years Tythes, and reco<g ref="char:EOLhyphen"/>vered Judgment for ten pounds, and took Goods to the value of 12 <hi>l.</hi>
+            </p>
+            <p>In the year 1678 one <hi>James Greenwood,</hi> now of <hi>Bolton</hi> by the Sands in <hi>Lancaſhire,</hi> Farmer of the Tythes in <hi>Bolton</hi> Pariſh (whoſe manner and Cuſtom is to pay a ſmall Rent in lieu of Tythe Hay) ſued <hi>Robert Widders</hi> for Tythe Hay in kind for five years. And brought <hi>Thomas Lucas</hi> his Threſher at <hi>Tytheborn,</hi> to ſwear at the Aſ<g ref="char:EOLhyphen"/>ſize at <hi>Lancaſter,</hi> that <hi>Robert Widders</hi> had fixty Load of Hay growing in the year, out of which the Tythe-farmer <hi>Greenwood</hi> challenged ſix load of Hay by the year; tho Tythe hay was not payed in kind but a ſmall Rent as aforeſaid. And Judge <hi>Bertie</hi> giving treble dammage, they took Goods worth 6 <hi>l.</hi> 15 <hi>s.</hi>
+            </p>
+            <p>And at the ſame Aſſizes in 1678. the ſaid Tythe-farmer <hi>Green<g ref="char:EOLhyphen"/>wood</hi> ſued <hi>Robert Widders</hi> for Tythe Corn for five years, he demand<g ref="char:EOLhyphen"/>ing 23 <hi>l.</hi> 17 <hi>s.</hi> 5 <hi>d.</hi> as the ſaid <hi>Thomas Lucas</hi> his Threſher, <hi>Richard Fawcett</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>pper Kellet,</hi> and <hi>John Greenwood</hi> the Tythe-farmer's Brother ſwore it, as the ſingle value; and the ſaid Judge <hi>Bertie</hi> gran<g ref="char:EOLhyphen"/>ted treble value, which came to 71 <hi>l.</hi> 12 <hi>s.</hi> 3 <hi>d.</hi> for which the Bay<g ref="char:EOLhyphen"/>liffs, <hi>Thomas Foxcroft</hi> and <hi>George Overend,</hi> both of <hi>Burton</hi> in <hi>Lounſ<g ref="char:EOLhyphen"/>dall</hi>
+               <pb n="7" facs="tcp:48441:4"/>in <hi>Yorkſhire,</hi> with others, came and took Goods from the ſaid <hi>Robert Widders</hi> worth 98 <hi>l.</hi> 1 <hi>s.</hi> as was valued by four credible men of his Neighbours—Locking up the Barn door, and Threſhing out Corn at their pleaſure, taking the Straw alſo away, being moſt part of a year in ſpoiling.</p>
+            <p>And again, in the year 1683. the ſaid <hi>James Greenwood,</hi> Tythe-Farmer, ſued the ſaid <hi>Robert Widders</hi> at Common Law, for Tythe upon the Statute that gives treble dammage; and brought one <hi>Ri<g ref="char:EOLhyphen"/>chard Tatem</hi> of <hi>Ireby</hi> in <hi>Lancaſhire,</hi> who ſwore that the Tythe of <hi>Ro<g ref="char:EOLhyphen"/>bert Widder</hi>'s Corn in the year 1678. was worth 1 <hi>l.</hi> 1 <hi>s.</hi>
+            </p>
+            <p>And he brought one <hi>John Chapm in</hi> of <hi>Capenwray,</hi> whoſwore that the Tythe of <hi>Robert Widder</hi>'s Corn in the year 79. was worth 5 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>And again, the ſaid <hi>Richard Tatem</hi> ſwore that the Tythe of <hi>Ro<g ref="char:EOLhyphen"/>bert Widders</hi> Corn in the year 1680. was worth 1 <hi>l.</hi> 6 <hi>s.</hi>
+            </p>
+            <p>Alſo the ſaid Tythe-Farmer <hi>Greenwood</hi> brought one <hi>William Mid<g ref="char:EOLhyphen"/>dleton</hi> his Servant, who ſwore that the Tythe of <hi>Robert Widder</hi>'s Corn in the year 1682. was worth 4 <hi>l.</hi> 19 <hi>s.</hi>
+            </p>
+            <p>And upon theſe four ſaid Evidences at <hi>Lancaſter</hi> Aſſizes in the ſaid year 1683. Judge <hi>Walcot</hi> gave Judgement for <hi>James Greenwood</hi> treble value, which was 22 <hi>l.</hi> 14 <hi>s.</hi> 6 <hi>d.</hi> the ſingle value being 7 <hi>l.</hi> 11 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>And <hi>Edward Charnock</hi> of <hi>Lancaſter,</hi> a Sheriffs Bayliff, and <hi>Joſiah Dickinſon</hi> of <hi>Nether Kellet,</hi> Son-in-law to the ſaid <hi>James Greenwood,</hi> Tythe-Farrner, came and took Goods from the ſaid <hi>Robert Widders</hi> worth 27 <hi>l.</hi> 15 <hi>s.</hi> as prized by four Neighbours.</p>
+         </div>
+         <div type="account">
+            <head>The Sufferings of <hi>Robert Widders</hi> for Sunday Shillings (ſo called.)</head>
+            <p>THe 14th day of the 10th Month, 1683. came <hi>Robert Leaper</hi> of <hi>Over Kellet,</hi> Overſeer, and demanded 3 <hi>s.</hi> of <hi>Robert Widders</hi> for being three daies abſent from their Worſhip, which <hi>Robert Widders</hi> could not pay for Conſcience ſake: Then by vertue of a Warrant from <hi>Thomas Coall, Edward Wilſon,</hi> and <hi>Roger Moore,</hi> all Juſtices, took Goods to the value of 3 <hi>s.</hi>
+            </p>
+            <p>Again the ſaid Juſtice Fined the ſaid <hi>Robert Widders</hi> 3 <hi>s.</hi> upon the ſaid account; and by Warrant from the ſaid Juſtices, came <hi>John Butterfield,</hi> and <hi>Robert Robinſon,</hi> Wardens, upon the 27th of the 6th Month, 1684. and took Goods from the ſaid <hi>Robert Widders</hi> worth 3 <hi>s.</hi>
+            </p>
+            <pb n="8" facs="tcp:48441:5"/>
+            <p>Alſo <hi>Robert Widders</hi> was Fined the third time upon the ſaid ac<g ref="char:EOLhyphen"/>count 3 <hi>s.</hi> and by Warrant from the ſaid Juſtices, upon the 10th day of the 9th Month 1684. came <hi>Richard Gibſon,</hi> Conſtable, and <hi>Robert Robinſon,</hi> Warden, both of <hi>Over Kellet,</hi> and took Goods worth 4 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <head>Here followeth the Sufferings of that Dear and Faithful Servant of the Lord <hi>Robert Widders,</hi> for Meetings upon the Conventicle Act, and other waies.</head>
+            <p>
+               <hi>RObert Widders</hi> for being at a Meeting was fined 3 <hi>l.</hi> 6 <hi>s.</hi> 8 <hi>d.</hi> by <hi>William Spencer</hi> and <hi>George Middleton,</hi> both Juſtices, for which <hi>William Haughton,</hi> Bayliff of <hi>Lancaſter,</hi> took one Cow.</p>
+            <p>
+               <hi>Robert Widders</hi> having a peaceable Meeting in his Houſe the 31 day of the 6th Month, 1684. where there came <hi>Richard Gibſon</hi> Black<g ref="char:EOLhyphen"/>ſmith, Conſtable, and <hi>Robert Robinſon,</hi> Warden, both of <hi>Over Kellet,</hi> with a Warrant from Juſtice <hi>Bindleſs</hi> of <hi>Borrick,</hi> who put them on. And required Friends to go before the Juſtice, which they did; and by ſome Informers took Information, and Fined <hi>Robert Widders</hi> 20 <hi>l.</hi> for his Houſe, himſelf and his Wife each 5 <hi>s.</hi> for being at the Meeting in his own Houſe, by the Act againſt Conventicles.</p>
+            <p>And upon the 26th day of the 7th Month, 1684. came <hi>Richard Gibſon</hi> Blackſmith, and <hi>Richard Fawcet</hi> Conſtables, and <hi>John Helme,</hi> and <hi>Thomas Lucas,</hi> Overſeers, and <hi>John Butterfield,</hi> and <hi>Robert Ro<g ref="char:EOLhyphen"/>binſon,</hi> Wardens, all of the Townſhip of <hi>Over Kellet,</hi> to <hi>Robert Widder</hi>'s houſe with a Warrant from the ſaid Juſtice <hi>Bindleſs,</hi> bear<g ref="char:EOLhyphen"/>ing date the 26th day of the 7th Month, and demanded the ſaid Fines of <hi>Robert Widders,</hi> which he refuſing to pay, they made di<g ref="char:EOLhyphen"/>ſtreſs of his Goods worth 22 <hi>l.</hi> 7 <hi>s.</hi> as two of the ſaid Officers did value them.</p>
+            <p>Again, <hi>Robert Widders</hi> for being at a peaceable Meeting at <hi>William Waithmans</hi> of <hi>Lindeth</hi> the 7th of the 7th Month 84. was Fined 10 <hi>s.</hi> by the ſaid Juſtice <hi>Bindleſs</hi> of <hi>Borrick.</hi>
+            </p>
+            <p>Upon the Information of <hi>George Dawſon,</hi> Warden, <hi>John Bachouſe</hi> and <hi>John Hall,</hi> all of the Townſhip of <hi>Warton,</hi> Officers; and upon the 10th day of the 9th Month, came the ſaid <hi>Richard Gibſon,</hi> Con<g ref="char:EOLhyphen"/>ſtable, and <hi>Robert Robinſon,</hi> Warden, both of <hi>Over Kellet,</hi> and took Goods worth 10 <hi>s.</hi> from the ſaid <hi>Robert Widders.</hi>
+            </p>
+            <p>Again, <hi>Robert Widders</hi> for being at a Meeting at <hi>Richard Lancaſters</hi> of <hi>Yelland</hi> the 21 day of the 7th Month 84. was fined 10 <hi>s.</hi> by the
+<pb n="9" facs="tcp:48441:5"/>ſaid Jnſtice <hi>Bindleſs,</hi> upon the Information of <hi>Robert Bachouſe</hi> Conſta<g ref="char:EOLhyphen"/>and <hi>John Huberſty,</hi> Warden, both of <hi>Yelland,</hi> had Goods taken from him worth 10 <hi>s.</hi> by the ſaid <hi>Richard Gibſon, Robert Robinſon,</hi> and <hi>Thomas Lucas,</hi> all of <hi>Over Kellet,</hi> the 20th of the 10th Month, 84.</p>
+            <p>Alſo <hi>Robbert Widders</hi> for being at a Meeting at <hi>Robert Huberſties</hi> of <hi>Capenwray,</hi> the 19th day of the 8<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Month, 84. was fined 5 <hi>s.</hi> by <hi>Thomas Goall</hi> Juſtice, upon the Iuformation of <hi>Richard Gibſon,</hi> and <hi>Thomas Lucas</hi> aforeſaid, Conſtables, and <hi>Robert Robinſon</hi> Warden—And the 10th day of the 9th Month, came the ſaid Officers, and took Goods from <hi>Robert Widders</hi> worth 9 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>And again, <hi>Robert Widders</hi> for having a peaceable Meeting at his Houſe the 26th. of the 8th. Month, 1684. was fined the ſecond time 20 <hi>l.</hi> for his Houſe by the ſaid <hi>Robert Bindleſs</hi> Juſtice, upon the In<g ref="char:EOLhyphen"/>formation of the ſaid <hi>Rich. Gibſon</hi> and <hi>George Eskrigge</hi> both of <hi>Over Kellet;</hi> which <hi>George Eskrigge</hi> ſaid it was againſt his will. And the 20th. day of the 10th. Month came the ſaid <hi>Richard Gibſon,</hi> Black<g ref="char:EOLhyphen"/>ſmith, and <hi>Thomas Lucas,</hi> Conſtables, and <hi>Robert Robinſon,</hi> War<g ref="char:EOLhyphen"/>den, by Warrant from the ſaid Juſtice <hi>Bindleſs;</hi> and rifled the Houſe of <hi>Robert Widders,</hi> ſhot back locks and pulled out ſtaples of Doors, and Arkes (altho they were told what was in them, and that it was not according to the Act) and then took Goods worth 10 <hi>l.</hi> 5 <hi>s.</hi> ſo let it fall.</p>
+            <p>
+               <hi>Robert Widders</hi> for being at a Meeting at <hi>John Bachouſe</hi> of <hi>Yelland,</hi> the 14th. of the 10th. Month, 1684. was fined 10 <hi>s.</hi> by the ſaid Juſtice <hi>Bindleſs;</hi> upon the Information of <hi>John Smith,</hi> Conſtable, and <hi>Thomas Watſon,</hi> Warden, both of the ſaid <hi>Yelland,</hi> had Goods taken from him worth<g ref="char:punc">▪</g> 10 <hi>s.</hi> by the ſaid <hi>Richard Gibſon, Thomas Lu<g ref="char:EOLhyphen"/>cas,</hi> and <hi>Robert Robinſon</hi> all of <hi>Over Kellet</hi> aforeſaid, the 20th. day of the 10th. Month, 1684.</p>
+            <p>Thus the ſufferings of <hi>Robert Widders,</hi> that Noble Innocent Suf<g ref="char:EOLhyphen"/>ferer, and Faithful Servant and Witneſs for the Lord God, may be ſeen in ſhort.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label"> 
+                        <hi>l.</hi> 
+                     </cell>
+                     <cell role="label"> 
+                        <hi>s.</hi> 
+                     </cell>
+                     <cell role="label"> 
+                        <hi>d.</hi> 
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>His Suffering for Tithes</cell>
+                     <cell>143</cell>
+                     <cell>11</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>His Sufferings for Sunday Shillings</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>His Sufferings for Meetings</cell>
+                     <cell>37</cell>
+                     <cell>18</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Total</cell>
+                     <cell>181</cell>
+                     <cell>19</cell>
+                     <cell>02</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And likewiſe his ſuffering Impriſonment for the Teſtimony of the
+<pb n="10" facs="tcp:48441:6"/>Truth, and keeping his Couſcience clear, was once at <hi>Carliſte,</hi> and ſeveral times at <hi>Laneaſter,</hi> which particularly are not here ſet down.</p>
+            <p>And of his going to Steeple-houſes, and ſometimes of his ſpeaking to Prieſts and People, and warning them to repent, here is twelve particularly ſet down, beſides divers others in the Biſhoprick, or elſe where, not here inſerted.</p>
+            <p>Likewiſe <hi>R<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bert Widders</hi> writ many Letters when he was in <hi>America,</hi> and from divers other parts, where he was in the Service of the Lord, he writ to his Relations and Friends of his Love to them, with good Advice and Counſel, with ſeaſonable Exhortations, To be Faithful, and Noble, and Valiant for God and his Truth, over all Gain-ſayers.—For Truth will ſtand and Remain, when all Hy<g ref="char:EOLhyphen"/>pocriſie and deceit will fail; and come to an end.—Tho all his Writings particularly are not here ſet down.</p>
+            <p>But here are ſeveral Writings and Teſtimonies concerning this true and Noble Man for God in his day, <hi>Robert Widders.</hi> And of his Spirit, Giſts, and Service in the Church of God, of which Chriſt Je<g ref="char:EOLhyphen"/>ſus is the holy eternal head, from ſeveral Friends, as may be ſeen here following.</p>
+         </div>
+         <div type="testimony">
+            <head>
+               <hi>The T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtimony of</hi> Jane Widders, <hi>concerning her dear Husband,</hi> Robert Widders.</head>
+            <p>THis Teſtimony I have to give for my dear and truly loving Huſ<g ref="char:EOLhyphen"/>band, That his Love was true and ſincere to God, and for the proſperity of his bleſſed Truth was zealous.—He was a man (ever ſince it pleaſed God to joyn him and me together as Man and Wife) that was inclining to ſeek after the Lord. And in the time of his outward profeſſion was zealous and honeſt, according to what he then knew, till it pleaſed the Lord, thorough the Teſtimony and direction of his faithful Servant and Miniſter <hi>G. F.</hi> To turn his mind from Darkneſs to the Light of Chriſt within, who through be<g ref="char:EOLhyphen"/>lieving, obeying Chriſt and the Light of Life, and taking up the Croſs to ſelf, came to witneſs true peace with God, and ſo receiving the Truth in the Love of it, he became a companion of them that ſuf<g ref="char:EOLhyphen"/>fered for the Truth. He was ſo faithful to God; and true for the good of his Soul, that he would have been loath to have fled the Croſs for any outward advantage. Oh, the integrity of his Spirit and heart, I might ſpeak much of the ſame: But it is known to God, and I hope
+<pb n="11" facs="tcp:48441:6"/>to many faithful Brethren and Siſters in the Lord, whom he hath left behind under the exerciſe of this tranſitory world. Oh! it is the Cry and breathing of my Soul unto God, that he would preſerve me in faithfulneſs, as he hath done my deat Husband, to the end of my daies, and finiſhing my Courſe here.</p>
+            <p>During the time of his weakneſs of Body, he was kept by the Lords Power, in a ſweet and precious frame of mind, and patient<g ref="char:EOLhyphen"/>neſs of Spirit, as one that had Reſigned himſelf up into the Will of God; and many precious Scriptures paſſed thorow him in that time, as one that might in Truth declare what God had done for his Soul, as that of the Prophet, where he ſaith, <hi>The Lord will comfort Zion, and repair her decayed places, making her Deſart as a Paradice, and her Wilderneſs as the Garden of the Lord, Mirth and Joy ſhall be found there, Thanksgiving and the voice of Praiſe.</hi>—And again that of the Prophet, where he ſaith, <hi>The work or fruit of Righteouſneſs ſhall be Peace; and the effect of Righteouſneſs, quietneſs, and aſſurance for ever.</hi>—He would often have ſaid, his heart was filled with the Love of God, and that there was nothing betwixt him and the Lord. Thou haſt taught me the way of Life, and makeſt me full of Joy with thy Countenance.—And ſeeing it is the will of God to take my dear Husband unto himſelf, to reſt with him in eternal Glory, who was a dear and tender Husband unto me. Oh, that I in a holy ſub<g ref="char:EOLhyphen"/>miſſion to his bleſſed will, may be given up, deſiring in all things to be made conformable to his heavenly mind, who alone is worthy to be ſeared, ſerved, worſhipped, and bowed unto, who is God over all bleſſed for ever. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Jane Widders.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>Thomas Widders <hi>his Teſtimony concerning his dear and tender Father</hi> Robert Widders.</head>
+            <p>THis Teſtimony I have to bear concerning my dear and Loving Father, who is Deceaſed, for whom I ever had a Reverent eſteem, and that upon a double account, Firſt, as he was a tender natural Father unto me. Secondly, as he was an Example of a holy Life and Converſation, and good Advice and Counſel to me. Alſo he was ſincere and zealous for the propagation of the Name and Truth of God in his Day, which I know by true experience, was the deſire of his heart, that all who took upon them the profeſſion of the
+<pb n="12" facs="tcp:48441:7"/>holy Name of Jeſus, might walk anſwerable to the ſame, by taking heed to the manifeſtation of the Spirit, and the appearances of the Grace of God, given them for that end, that they might live up in obedience to the ſame.—</p>
+            <p>He had likewiſe a large ſhare of the ſufferings of the People of God in his Day and Age, and did bear his Teſtimony Faithful for Chriſt Jeſus, whom he witneſſed to be come, the High Prieſt over the Houſhold of God. And againſt the changable Prieſthood, as ſeeing to the end thereof, to the bringing in of the better hope, whereby all them that believe are brought nigh unto God; and for the holding of his Teſtimony with a conſtant mind, he was expoſed to great Suffe<g ref="char:EOLhyphen"/>rings; but through the aſſiſtance of the Almighty God of <hi>Jacob,</hi> and the putting on of the Heavenly Armour, he was enabled to paſs tho<g ref="char:EOLhyphen"/>row them all like a valiant man; for which everlaſtingl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bleſſed and praiſed be the Name of the holy, pure, powerful God, ſaith my Soul. He was a man that was given up to obey the Lord in what he required of him; neither would he reaſon with fleſh and blood, but had his eye directed by the Lord, to the recompence of the heavenly Reward, which I believe was more to him, than all the fading World. Oh, the remembrance of his Spirit; and the coming up of the ſame in the endleſs life, doth often tender my heart. In the time of his weakneſs of Body, he was very patient, and often bleſſing and praſing the Name of the Lord for his favours and mercy to him through Chriſt Jeſus. And having been in a weak Fit, he ſaid, Mi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e eye beholds <hi>Jeruſalem</hi> a quiet-Habitation, into the poſſeſ<g ref="char:EOLhyphen"/>ſion whereof, it is the belief of my heart, God had gathered him, as one of the number of his Faithful Diſciples and Followers, to reſt with him in eternal bleſſedneſs for ever and evermore, <hi>Amen</hi> and <hi>Amen,</hi> ſaith my Soul,</p>
+            <closer>
+               <signed>Thomas Widders.</signed>
+            </closer>
+            <postscript>
+               <p>My Father was about 68 years old when he deceaſed at his Houſe in <hi>Over Kellet,</hi> who was Convinced, and owned the Truth above 34 years; who died the 20th of the Firſt Month, 1686.</p>
+            </postscript>
+         </div>
+         <div type="testimony">
+            <head>
+               <hi>The Teſtimony of</hi> Margaret Fox <hi>concerning</hi> Robert Widders.</head>
+            <p>I Have a Real and true Teſtimony in my heart to bear for my dear Friend and Brother <hi>Robert Widders,</hi> who was a Faithful Servant of
+<pb n="13" facs="tcp:48441:7"/>the Lord, and a good Souldier under the Banner of Jeſus Chriſt in his Day; he never did ſhrink nor ſta<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed aſide in no ſcrive not ſuf<g ref="char:EOLhyphen"/>ferings, the Lord ſuffered him to be exerciſed in. I have known him, and been converſant with him Thirty four years, and we were made partakers of the eternal Truth near together, in the beginning of the infancy of Truth among us, now in out Age, when the Morning Stars Sang together. He was called forth to the ſervice of the Lord early in this glorious Day that hath ever ſince ſhined upon us, glory be to the Son of Righteouſneſs for ever. He went forth in the power and demonſtration of the Spirit, and turned many unto God early in his Day. He was of a quick underſtanding, and the Gift of the Spirit of diſcerning was plentifully beſtowed upon him. And tho he was not very much in Declaration, yet I know, and many alſo can bear Witneſs and Teſtimony, that his very preſence and counte<g ref="char:EOLhyphen"/>nance, and eye was refreſhment and comfort unto them, and that the witneſs of God in their hearts would have anſwered his appearance, the power of the Lord was ſo quick and lively in him. What I write is Sealed in my heart to be true. He was a dear and a faithful Bro<g ref="char:EOLhyphen"/>ther to me, and to my Children, in all our Tryals and Sufferings. It is too much for me to write here, what comfort, ſtrength and aſ<g ref="char:EOLhyphen"/>ſiſtance he hath been to me and mine, both when we were in Priſon and out of Priſon; he would not have failed to come to ſee us night or day over two dangerous Sands, if it had been in the deep of Winter, many a time hath he done ſo of his own accord; and for the moſt part I have been ſenſible of his coming before he came, ſo near and dear he was unto me. But what ſhall I ſay! his Life, and all that ever he had, was given up freely to the Lord and his ſervice: I be<g ref="char:EOLhyphen"/>lieve he never neglected any ſervice of the Lord, if it was made known unto him, either in <hi>England,</hi> or <hi>Scotland,</hi> or <hi>America</hi> be<g ref="char:EOLhyphen"/>yond the Seas. He left his Wife and Family, and took his Life in his hand and went Joyfully to the ſervice of the Lord. And when he went firſt forth into <hi>Cumberland</hi> and thereawaies, he was beaten, and ſtoned, and knocked down. O! the Impriſonments, and cold Winters that he paſſed thorow; ſo that his body was ſo ſtarved, that he never quite recovered while he lived. He gave his back freely to the Smiter upon every occaſion, and now in the latterend of his daies, the Tythe-mongers fell upon his outward Eſtate, and ſwept away many of his Goods; and when he had a little more together, the Tythe-monger and the Informers came again and fetched it away:
+<pb n="14" facs="tcp:48441:8"/>ſo that in the latter end of his daies his Sufferings were great, through the Spoilers, who ſuffered the ſpoiling of his Goods joyfully for Chriſts ſake.—So that this good Man hath gone thorow many ſorts of ſuf<g ref="char:EOLhyphen"/>ferings, and now he is gone to his Reſt, and his Father, for whom he hath ſuffered, where he certainly receiveth an eternal Reward with a <hi>Well done good and faithful Servant, enter thou into the Joy of the Lord.</hi>—I was with him in his ſickneſs, and he was as patient as a Lamb, tho he could take little food, except ſuch as he could drink, ſo he paſſed quietly, and patiently away, and the Lord dealt gently and kindly with him; and he is now in everlaſting bliſs and felicity with the eternal God, whom he ſerved and ſuffered for.</p>
+            <closer>
+               <signed>M. F.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>Sarah Bachouſe <hi>her Teſtimony of</hi> Robert Widders.</head>
+            <p>THis Teſtimony did ariſe in me in tenderneſs and brokenneſs of Spirit, concerning our dear Friend <hi>Robert Widders,</hi> who hath laid down his head in peace with the Lord. He was a man ſincere for God, and did bear a faithful Teſtimony for him to the end of his daies.</p>
+            <closer>
+               <signed>Sarah Bachouſe.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>Alice Hugginſon <hi>her Teſtimony concerning</hi> Robert Widders.</head>
+            <p>THis Teſtimony ariſes in my heart as a following ſtream, and iſſues out to the melting of my Spirit, and the refreſhing of my Soul with the tendering love of God in the remembrance of my dear Friend and faithful Brother <hi>Robert Widders,</hi> who in his life time amongſt us, was a good Example and pattern of holy life, in and with whom I have often been refreſhed, and my heart overcome with the overcomings of the dear love of God to my Soul, ſo that I can ſay, dear <hi>Robert,</hi> thou art from us gone, ſurely for ever to live with the eternal One in Joy and Peace for evermore. Oh, the heart<g ref="char:EOLhyphen"/>breaking tendering love that ſprings a new and freſh in me, in the re<g ref="char:EOLhyphen"/>membrance of him, often refreſheth my Soul, being ſatisfied that his Memorial in the Truth will never die, nor wear out.</p>
+            <closer>
+               <signed>Alice Hugginſon.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="15" facs="tcp:48441:8"/>
+            <head>Anne Camm <hi>her Teſtimony concerning</hi> Robert Widders.</head>
+            <p>I Feel a Concern upon my Spirit to write a few lines concerning my Dear deceaſed Friend and Brother <hi>Robert Widders;</hi> who was a Man that I dearly loved, and honoured in the Truth: for ſurely he was worthy being Faithful in his day, and Valiant for the Lord and his bleſſed Truth. I can truly ſay, he was Dear and Pretious unto me; one whom I had true comfort in, and refreſhment by him in our converſe together; one of the valiants of <hi>Iſrael,</hi> I may ſay he was, that never turned his back, but ſtood Faithful and Va<g ref="char:EOLhyphen"/>liant for the living Truth upon the Earth, and was a great incou<g ref="char:EOLhyphen"/>rager of all that made profeſſion of the bleſſed Truth, to be Faith<g ref="char:EOLhyphen"/>ful to the Lord, and true in their Teſtimony thereunto, as he had time and opportunity. Oh! what ſhall I ſay, my Soul lov'd him dearly: he was a true Friend of mine in the time of my Exerciſe, his true care and many tender viſits, of which I have many times been a partaker; the very remembrance hereof makes my heart tender before the Lord, and even pray unto him, that he would raiſe up many living Teſtimony bearers for the Propagation of his ever laſting Truth; for which this my entirely beloved Friend and Brother did labour without Wearineſs, and Travel without Faint<g ref="char:EOLhyphen"/>ing in his day. Oh! wherewithal ſhall I take up a Lamentation ſufficient for the loſs, or removal of ſo near a Friend, or amply demonſtrate the tender Affection that ever lived in my heart, ſince the time I was firſt acquainted with him; howbeit, in this is my Spi<g ref="char:EOLhyphen"/>rit comforted, and my Soul hath cauſe to praiſe the Lord on his be<g ref="char:EOLhyphen"/>half, that is to ſay, The true ſence and conſideration of his unfeign<g ref="char:EOLhyphen"/>ed and innocent life, together with his bleſſed and comfortable de<g ref="char:EOLhyphen"/>parture; a few hours before which I was with him, and we were truly refreſhed together by the ſame heart-tendring power which hath of<g ref="char:EOLhyphen"/>ten conſolated our Spirits in the daies that are paſt.</p>
+            <p>And further this Teſtimony lives in my heart, that the Lord hath given him a Manſion in the fulneſs of Joy, and ſet a Crown of Re<g ref="char:EOLhyphen"/>joycing upon his head, where all tears are wiped away, and ſorrow ended, where he ſhall ſing praiſes to the everlaſting God, who ſits upon the Throne, and the Lamb, who is eternally worthy to be glo<g ref="char:EOLhyphen"/>rified for evermore, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Anne Camm.</signed>
+               <dateline>
+                  <hi>Cammſgill,</hi> 
+                  <date>30 of 3 Mo. 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="16" facs="tcp:48441:9"/>
+            <head>Thomas Camm <hi>his Teſtimony concerning</hi> Robert Widders.</head>
+            <p>IT was no doubt the ſerious Obſervation of a good man of Old, and therefore recommended unto others, that is to ſay, to mark the Upright man, eſpecially his latter end, becauſe it is bleſſedly accompanied with peace; notwithſtanding that in his Pilgrimage here, he may meet with many troubles, and deep exerciſes, yet the Lord his God delivereth out of all; of whoſe faithfulneſs, our dear deceaſed Friend and Brother was a living witneſs; For tho in his time he met with manifold Troubles and great Sufferings for the Truths ſake, that he had received in the love thereof, and did bear a Faithful Teſtimony unto, being like upright <hi>Joſeph</hi> of Old, ſorely ſhot at, yet his bow ſtill abode in ſtrength, his Arms being made ſtrong by the Mighty God of <hi>Jacob,</hi> in whoſe power his Faith ſtood firm unto the end, without either <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ainting or wavering, a good Ex<g ref="char:EOLhyphen"/>ample to all that knew him.</p>
+            <p>And the Memory thereof will live, and be of good ſavour to Ages to come, <hi>For the Righteous ſhall be had in everlaſting remembrance.</hi> It is not with me to enter into the particulars of his Sufferings, but to leave that to others more capable. Yet having known him this thirty four years, ever ſince the Lord viſited us with his Goſpel day, that ſprung from on high, and broke forth as a Morning without Clouds, which he with the firſt in theſe parts, received with great Joy and gladneſs of heart; and in this time have I known moſt of his Sufferings, both by way of Impriſonment, and the great ſpoil of his Goods, both for his Noble Teſtimony againſt the Antichriſtian Yoke of Tythes, and for Meeting with the Lord's innocent People to worſhip the eternal God. I ſhall in a general way ſay, That his ſuf<g ref="char:EOLhyphen"/>ferings exceeded moſt that I know, being ſeveral times ſtript of much that was within the reach of the wicked Spoilers; But as his Sufferings and Troubles exceeded, ſo alſo did his Chriſtian Conſtancy and Va<g ref="char:EOLhyphen"/>lour, well may he be called one of the Valiants of God's <hi>Iſrael.</hi> O the Nobility, the Zeal, the Courage, and reſignedneſs of his Spi<g ref="char:EOLhyphen"/>rit into the Will of God in his greateſt exerciſes (which fully de<g ref="char:EOLhyphen"/>monſtrated his love to the Truth, and his regard to the bleſſed Teſti<g ref="char:EOLhyphen"/>mony thereof) hath often affected my Spirit, for I never ſaw him in the leaſt dejected or concerned, when his Cattle, Corn, and Houſe<g ref="char:EOLhyphen"/>hold Goods, was, as it were, by Wholeſale ſwept away: But as one
+<pb n="17" facs="tcp:48441:9"/>that knew well for what he ſuffered, and enjoyed the ſweetneſs of an eternal Rew<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in heavenly I reaſure, in an hundred ſold here, to<g ref="char:EOLhyphen"/>gether with <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of a laſſing Crown in Eternity.</p>
+            <p>Could and had <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to be as chearful and well content in the want of thoſe <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> things, as in the abounding thereof, which he through the <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ing of Almighty God had had a large ſhare in, yet like upright <hi>Job,</hi> he bleſſed God that gave, and alſo permitted them to be taken away. I cannot but with affection remember his frequent expreſſions, in dircourſe of our or other Friends Sufferings, as alſo mention ſome of them, that is to ſay, It is well with all that ſuffer for Truth's Cauſe, they are bleſſed, they enjoy peace. There is nothing that hath come, but there hath been need for it, and a ſer<g ref="char:EOLhyphen"/>vice in it; for all our Sufferings worketh together for our good, and Gods glory, and the remainder of the wrath of man will be reſtrai<g ref="char:EOLhyphen"/>ned, <hi>&amp;c.</hi> And as his Nobility and Courage was exemplary, and of ſervice to many; ſo alſo was his care and counſel, ſo that many have cauſe to bleſs the Lord on the behalf thereof.—I may alſo add to the Nobility of his Spirit, great Gravity, mixed with a Lamb-like inno<g ref="char:EOLhyphen"/>cency, which was as a garment of Praiſe upon him, and made him right lovely in the eyes of the upright; together with his ſound judg<g ref="char:EOLhyphen"/>ment, clear diſcerning and ſavour, whereby a perfect diſtinction was made betwixt things of contrary natures, tho under one name or like<g ref="char:EOLhyphen"/>neſs. And as he was tender to cheriſh every appearance of good, yet ſharp and piercing was his Teſtimony againſt all wicked<g ref="char:EOLhyphen"/>neſs and deceit: ſo that it was hard for workers of Iniquity or Hypo<g ref="char:EOLhyphen"/>crites to ſtand before him, being filled with indignation againſt all falſe-heartedneſs, deceit and hypocriſie.—But his very ſoul was bound up with the upright in heart, and his Joy made full in the Faithful to Truths Teſtimony. And now the Lord whom beloved above all, and feared above the wrath of Man, and faithfully ſerved in his day, hath given him a Crown of Glory, and a bleſſed portion in the reſt that remains ſure for the People of God, where his manifold ſufferings are come to an end, his ſorrows ceaſed, and all tears for ever wiped from his eyes, being aſcended far above the reach of the wicked one and his Perſecutors, where his Spirit lives with Juſt men made perfect in Chriſt our Lord, and with them is, and ever will be of bleſſed Me<g ref="char:EOLhyphen"/>mory, having ſerved out his Generation, and attained to a good old Age, and the honorable Gray Hairs is gathered to Reſt in endleſs G<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ory. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Thomas Camm.</signed>
+               <dateline>
+                  <hi>Cammſgill</hi> 
+                  <date>6 of 4 Mo. 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="18" facs="tcp:48441:10"/>
+            <head>William Hugginſon <hi>his Teſtimony of the Life, and Death, of that ancient Friend and faithful Brother in the Truth, as it is in Jeſus,</hi> Robert Widders.</head>
+            <p>I having had good experience, and knowledge of him near Forty Years, can do no leſs, than give a ſhort account of his Godly Life, and holy Converſation he had amongſt us; ſurely he was a Man of a noble Spirit, indued with a large wiſdom in Heavenly things.—He had alſo a deep diſcerning of the Spirits of men, ſo knew right well how to ſpeak to their condition, and that in a right Seaſon; his words being in the Liſe and Power, he hath left many living wit<g ref="char:EOLhyphen"/>neſſes to ſpeak forth the ſame—And he was a good example in times of Tryals and Sufferings, both in Body and Goods amongſt us—for he had a large ſhare of both, as doth appear in his own Teſtimony of Sufferings before written; only this I can ſay, being of the ſame Meeting with him, and very intimate, and open hearted in the things of God, and well knew his care and diligence, both in our quarterly, monthly, and particular Meetings, and more eſpecially in our great ſuffering time by the Informers: His advice was to me, and that very tenderly, as one ſaid that he became Eyes to the Blind, and Legs to the Lame, and many precious Exhortations proceeded out of his mouth, to the refreſhing and comforting of the loweſt Member, or hindermoſt of the Flook, and Heritage of God. He was ſo tenderly affectioned, that his very Life was given up to ſerve the Lord in his day, to ſtrengthen and to ſtir up the pure Spirit of God in the very loweſt member, ſo that I was, and am ſenſible that he anſwered the mind and will of God, and did that which was right in his Sight, and laid down his Head in peace with him. And now the remembrance of that great and dear love that he had to our Fa<g ref="char:EOLhyphen"/>mily, often breaks my Heart into tenderenſs, and refreſheth my Soul, ſo that I can ſay my Family miſſeth him:—But to the Almigh<g ref="char:EOLhyphen"/>ty God, we muſt all ſubmit, to whom be Glory and praiſe for ever<g ref="char:EOLhyphen"/>more, <hi>Amen.</hi>
+            </p>
+            <p>And now dear <hi>Robert</hi> thou art gone, ſurely living with the Eter<g ref="char:EOLhyphen"/>nal one, in that heavenly manſion of Reſt, and peace for ever<g ref="char:EOLhyphen"/>more, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>William Hugginſon.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="19" facs="tcp:48441:10"/>
+            <head>Thomas Dockrey <hi>his Teſtimony concerning</hi> Robert Widders.</head>
+            <p>AS for our faithful Friend and Servant of the Lord, <hi>Robert Wid<g ref="char:EOLhyphen"/>ders:</hi> He was called early of the day of God, when it pleaſed him to viſit his Seed in the North of <hi>England,</hi> who in the year 1652. ſent his faithful Miniſter, and joyful Ambaſſadour, <hi>G. F.</hi> with others to declare his Name and his Truth, and his Goſpel, and the way of Peace, Life and Salvation by Jeſus Chriſt, which indeed was the greateſt joy and ſatisfaction to many a Soul in theſe parts, that ever they met with, who had been ſeeking after the Lord his peace, po<g ref="char:EOLhyphen"/>wer and preſence, which now many hath found, and lived in, and hath finiſhed their time and courſe here, to the laying down of their Heads in peace with God, to whom be praiſe for ever.</p>
+            <p>
+               <hi>Robert Widders</hi> owned the Truth above 34 years; he was a Man zealous of mind, and fervent in Spirit, and true in Heart to ſerve the Lord God faithfully all his days, after he was turned to the Lord and to his eternal Truth.—He was ſteadfaſt in Faith, and of a ſound judgment, and deep diſcerning, who viſited many in Sick<g ref="char:EOLhyphen"/>neſs of body, and them that were in trouble of Conſcience, and had a true diſcerning of their ſpiritual conditions, and could have ſpoken a word in ſeaſon ſutable to them: And to thoſe that were innocent, and truly deſirous after good, he was loving and tender, and of a chearful Countenance.—But to the Hypocrites, and falſe in Heart, he was ſharp, and threſhing, having the Spirit of Judgment, ſo that his Spirit might often have been known by his Countenance.</p>
+            <p>But he greatly loved Unity amongſt Brethren in the Spirit, and power of the Lord God.—And he was one that choſed rather to ſuffer affliction with the people of God, than to enjoy the pleaſure of Sin, and of this world for a ſeaſon: For as it may be ſeen before in this little Book, he was a great Sufferer both in Impriſonment and ſpoiling of Goods: For his Teſtimony to the Truth, and for keeping his Conſcience clear, he was freely given up, and faithful and true in, and thorow them all, well knowing that the Doctrine of Jeſus was and is true: Bleſſed are theſe that ſuffer Perſecution for Righte<g ref="char:EOLhyphen"/>ouſneſs ſake, theirs is the Kingdom of Heaven; and had rather have ſuffered much, than that the Lord, and his holy Truth ſhould be diſhonoured, or his people evil ſpoken of.</p>
+            <p>And now he hath finiſhed his courſe, and kept the Faith, having
+<pb n="20" facs="tcp:48441:11"/>lived in the Truth, and dyed in the Lord (Aged about ſixty eight years) and bleſſed are ſuch for they Reſt from their Labour, and their Works follow them;—And he is gone as to his natural Life, but his Spirit and Life ſpiritually yet remaineth, and lives; as <hi>He that believeth in me,</hi> ſaid Jeſus, <hi>hath everlaſting Life:</hi> And this is the will of him that ſent me. That every one which ſeeth the Son, and believeth on him, may have everlaſting Life, and I will raiſe him up at the laſt day: And he that liveth, and believeth in me ſhall never die.</p>
+            <p>And the Saints in the Apoſtles days, had a Life hid with Chriſt in God, who were come to the Spirits of juſt men made perfect, to the general aſſembly, and Church of the firſt-born, whoſe Names are written in Heaven: And to God the judge of all, to whom all muſt give account, and who is the juſt rewarder of all, according to their deeds done in the Body, be they good or evil.—And we that yet remain in the Body, God Almighty keep and preſerve us faithful and true to him, to his Glory, to the end of our days, and to our eternal Peace and Felicity, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Thomas Dockrey.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>Thomas Jackſon <hi>his Teſtimony of</hi> Robert Widders.</head>
+            <p>THis Teſtimony I have to give, concerning our dear and faith<g ref="char:EOLhyphen"/>ful Friend <hi>Robert Widders.</hi> He was a zealous Man, and ſin<g ref="char:EOLhyphen"/>cere, for God in his day, and ſervent in Spirit always ready, and willing to ſerve the Lord, wholly reſigned thereunto in Spirit and Body, and Eſtate, and his Travels, Exerciſes, Tryals and Suffer<g ref="char:EOLhyphen"/>ings doth certifie, ever ſince he was called into the work of the Lord, and he was called early, and indured the heat of the day.—And after I came into acquaintance and fellowſhip with him, he was a Strength and Comfort to me, for which I have cauſe to magnifie the Lord on his behalf; for I was ſenſible of his labour of Love, and care in the Church of God, that it muſt be preſerved in Unity as one Body, of which Jeſus Chriſt is head, and that it might be preſented without ſpot or wrinkle, or any ſuch thing unto God the Father — He was a good example, and adorned his profeſſion with a good Converſation, (which is the ſubſtantial part of Religion) He was one of the Valiants in <hi>Iſruel,</hi> whoſe Bow abode in ſtrength, and
+<pb n="21" facs="tcp:48441:11"/>carried perfectly to the mark; his Bow was bent againſt Hypocrifie and Deceit, and Unrighteouſneſs; his Feet was ſhod with the prepa<g ref="char:EOLhyphen"/>ration of the Goſpel of Peace: But prepared, and ready to trample upon that which would have riſen in oppoſition to the Life, and power of Godlineſs, though never ſo fair a ſhew; he was of a good diſcerning, and found in judgment, his Countenance very amiable, to thoſe that were faithful to God and his Truth. — But terrible to the workers of Iniquity; — his deportment was Grace and Comely; I had a reverent eſteem of him in my Heart, being one of the ſame Meeting with him, he is often freſh in my remembrance, for I have often been refreſhed with his preſence: And altho his Body be removed from us, yet his memorial lives with us, and is worthy to be recorded to future Ages; that by the Foot ſteps of the Flock of Chriſt's Companions, many who make a true enquity after the beloved of their Soul, may come into the fold of Reſt, and lay down their Heads in everlaſting peace, as he hath done when time here ſhall be no more.</p>
+            <closer>
+               <signed>Thomas Jackſon.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>Robert Hubberſty <hi>his Teſtimony concerning</hi> Robert Widders</head>
+            <p>THis loving Teſtimony I have to bear, for our ancient and well beloved Friend and Brother <hi>Robert Widders,</hi> who indeed was a very Fatherly man amongſt us, for ſo I can truly call him, in reſpect of his Godly care, and unſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gned love he had unto the Lords Chil<g ref="char:EOLhyphen"/>dren and People, for indeed he was one of the Lords Valiants, who ventured his life freely for the Captain of his Salvation, and was never weary nor fainted in his ſervice that he required on him, tho he went many times, as with his life in his Hand to many Steeple<g ref="char:EOLhyphen"/>houſes, and ſpoke the word of the Lord faithfully, both to Prieſts and People, who often recieved great abuſes from them, and caſtings into Priſons: But bleſſed be the Lord for ever more, who gave him courage and boldneſs and made him of an undanted Spirit, that he grew more and more valiant for the Lord, and did bear the Burthen in the heat of the day, and paſſed thorow great Sufferings, both in Body, Priſons and Goods, for bearing his faithful Teſtimony to the Truth, and for keeping his Conſcience clear in the ſight of God. But this good man indured all with great patience, conſtancy and
+<pb n="22" facs="tcp:48441:12"/>chearfulneſs.—Dear <hi>Robert,</hi> the remembrance of thee refreſheth my Soul, for thou ever preferred the Lords buſineſs before thine own, and was very faithful and valiant for him, and never loſt an Inch of Ground: He was a Man of a quick ſight ſpiritually, of good di<g ref="char:EOLhyphen"/>ſcerning, and ſound judgment: I ſpeak my own experience of him, and as I took his Counſel, it always wrought to a good effect.—He was one that truly feared the Lord, his delight was in obeying of him, who taught him to live a Godly life, in this evil World, and hath made his latter end everlaſtingly bleſſed.—And now dear <hi>Ro<g ref="char:EOLhyphen"/>bert,</hi> thou haſt been an upright man, and hath followed the Lord fully, and hath received the Anſwer of a good and faithful Servant, and is entered into the joy of the Lord, to reign with him in Glory, out of the reach of all the Perſecutors and greedy Informers: But certainly the Lord will plead with them in Judgment, who will reward all according to their deeds, done in the Body and out of the Body, be they good or evil.</p>
+            <closer>
+               <signed>Robert Hubberſty.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>John Hudſon <hi>his Teſtimony of</hi> Robert Widders.</head>
+            <p>THE Teſtimony that I have to bear for our dear Friend <hi>Robert Widders,</hi> he was a Man of a Noble and diſcerning Spirit, and very weighty in judgment, he was tender of the young in the Truth, and if any walked diſorderly, he was ready to labour with them for their good, by exhorting them, and would have dealt plainly with all people, and would have ſaid, that was the pureſt love that dealt plaineſt, and if any was weak, and had a tenderneſs in them, he was kind to ſuch, and would have admoniſhed them to mind the Lord, and he would give them ſtrength over the Enemy; yea, he was a Man that was valiant for the Lord, and his Truth, as his life and Sufferings does demonſtrate, as by Impriſonments, and ſpoiling of his Goods for Tithes, and by the Informers: But in them all ſtill was noble and chearful, and exhorting Friends to be faithful, and truſt the Lord with all, who was a ſtrength to me in the time of my Sufferings, when the Informers followed us very hotly, both week<g ref="char:EOLhyphen"/>days, and other Meetings: dear <hi>Robert</hi> was very conſtant, tho weak<g ref="char:EOLhyphen"/>ly of Body, and incouraged Friends to be faithful to the Lord, and diligent to their Meetings, and the Lord in mercy did ſtrengthen us, and made us willing to give up for his Name and Truth-ſake, and
+<pb n="23" facs="tcp:48441:12"/>the Lord hath given us peace therein. And tho dear <hi>Robert</hi> ſuffered much by the Tythe-mongers and Informers, yet he was ſtill Noble, Patient and chearful, who was ſo good an Example, as is worthy to be had in Remembrance. And tho he be removed outwardly to endleſs Reſt with the Lord, yet his Memorial of good Savour lives with us.</p>
+            <closer>
+               <signed>John Hudſon.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>
+               <hi>The Teſtimony of</hi> John Beakbayne <hi>concerning</hi> Robert Widders.</head>
+            <p>THis Teſtimony I have to bear: He was a man quick ſpirited, and of a chearful Countenance; and when the Meſſengers of the Truth came among us, he was one with the firſt in theſe parts that re<g ref="char:EOLhyphen"/>ceived them and their Teſtimony, which he hath faithfully kept and holden, even to the laſt of his daies. He was ſharp in Reproof, gentle in Admonition: his Bow abode in ſtrength; he was as a ſharp Sword to Deceit and Hypocriſie, but as Balm and Oyl to help the Tender and afflicted in Spirit about ſpiritual things. I being newly Convinced of the Truth, he was ready to give good Advice to me, and told me, as concerning the Work of Truth, That there was no<g ref="char:EOLhyphen"/>thing got but through Judgment, which then I knew little of: but ſince hath found it the way to Life and Mercy.—I have been Priſoner with him ſeveral times at <hi>Lancaſter,</hi> and his chearful Countenance, and good Example and Advice to Friends, alwaies Miniſtred ſtrength and comfort. He was as an Elder, and his preſence was encouraging. — And tho he be gone as to the outward man, yet his Life and Spi<g ref="char:EOLhyphen"/>rit is in our Remembrance. His Sufferings were great, yet he never did ſhrink what ever Storm or Tempeſt came, but followed Chriſt Jeſus his Captain through ſufferings patiently, and hath obtained an eternal Reward, where the Spoilers cannot come.</p>
+            <closer>
+               <signed>John Beakbayne.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>Robert Barrow <hi>his Teſtimony of</hi> Robert Widders.</head>
+            <p>O It is freſhly in my mind the many comfortable daies and ſex<g ref="char:EOLhyphen"/>ſons of Love that we have had together in the enjoyment of God's Power and Preſence, in our Spiritual exerciſe from time to time. Within this 34 years ſince <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord our God brought <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o believe in his N<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, and ma<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>,
+<pb n="24" facs="tcp:48441:13"/>whereby Redemption from the evil of the World is known, and the freeing vertue of the eternal Truth witneſſed.—And when I con<g ref="char:EOLhyphen"/>ſider his ſincerity and-zeal, he was alwaies concerned for the Teſti<g ref="char:EOLhyphen"/>mony of Jeſus, for the promoting of the glorious Goſpel Worſhip, and for the good of the Brotherhood; in which heavenly exerciſe the Lord did endue him with wiſdom, and gave him a diſcerning eye, and the Spirit of a ſound mind and true judgment, in the Authority and Dominion of which he was made bold and valiant for the Truth of God upon earth; and therein was a terror to Evil-doers where e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er he came of all ſorts, as Prieſts, hypocritical Profeſſors, and profane or Will-worſhippers of any kind.—And if any had been overtaken with a fault (as the Apoſtle ſaid) he would have endeavoured to have reſtored them with the Spirit of Meekneſs, good Advice, and ſound Judgment; and he would have ſaid our God hath put us upon a Spiritual Travel, and ought not to leave a Hoof in <hi>Egypt;</hi> he was a a ſtrength and encourager to the Faithful.—And as concerning his Travels in godly Zeal for the Truths ſake, both in <hi>England, Scotland,</hi> and ſome parts of <hi>America,</hi> tho his Gift was not much in Declarati<g ref="char:EOLhyphen"/>on, yet he had the word of Wiſdom, diſcerning and ſound Judg<g ref="char:EOLhyphen"/>ment: good Advice and Admonition to Friends, and for the eſta<g ref="char:EOLhyphen"/>bliſhing them in the Faith and Truth of God, where ever he came; and herein the Lord proſpered his Work, and labour of Love in his ſervice. And he was faithful in his Teſtimony againſt Tythes, the Hirling Prieſts, and Impropriators, and was a great ſufferer by them.—And was faithful and zealous, for meeting to Worſhip God in the Spirit and in the Truth as Chriſt Jeſus ſet it up above ſixteen hundred years ſince, tho for ſtanding his Teſtimony herein. He was a Suf<g ref="char:EOLhyphen"/>ferer; but in all theſe exerciſes he was valiant and ſtedfaſt, and the Lord God did bear up his head, and through the enjoyment of Gods power and preſence, he was content in every condition; of a chearful mind and good example.</p>
+            <p>And when weakneſs of Body attended him, and the time of his departure drew hear, his love to God, and good will to his Brethren filled his heart with tenderneſs and heavenly comfort, in the feeling ſence of which, I with other Friends being preſent, was made glad in the Lord on his behalf, for he talked with me very ſenſibly within unto hours of his departing; at which time I was aſſured he was Re<g ref="char:EOLhyphen"/>odtemed from the Earth, and quit of all Worldly trouble and care, and in the enjoyment of the ſeaſoning Grace, and ſanctifying power
+<pb n="25" facs="tcp:48441:13"/>of God, he hath ceaſed from his Labour, and left a good ſavour be<g ref="char:EOLhyphen"/>hind him, and laid down his Head in peace.—This being the ſence, and Teſtimony of one of his old acquaintance, the bleſſed Truth and Unity of the peaceable Spirit of Life.</p>
+            <closer>
+               <signed>Robert Barrow.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>James Taylor <hi>his Teſtimony of</hi> Robert Widders.</head>
+            <p>THis is a ſhort but true account of the faithfulneſs, and innocen<g ref="char:EOLhyphen"/>cy of <hi>Robert Widders,</hi> being with him ſome months to viſit Friends, both in priſon, and out of priſon, in <hi>Cheſhire, Darbyſhire, Yorkſhire, Biſhoprick,</hi> often meeting with hardſhips in the way, it be<g ref="char:EOLhyphen"/>ing in Winter, wicked people would take up Stones, and roul them in Snow, and caſt them at us: And in all this time and travel, dear <hi>Robert</hi> was ſtill meek and harmleſs, yet noble and valiant for the Truth of God.—And I am ſatisfied that my faithful and well be<g ref="char:EOLhyphen"/>loved Friend is entered into everlaſting Reſt, Joy and Peace, where I hope e're long to be alſo.</p>
+            <p>
+               <hi>This is written in much weakneſs of Body, by me</hi> James Taylor, <hi>who is ſince Dead.</hi>
+            </p>
+         </div>
+         <div type="testimony">
+            <head>James Lancaſter <hi>his Teſtimony concerning</hi> Robert Widders.</head>
+            <p>THis Teſtimony I have concerning our dear Friend, and my fellow Traveller in the Service of God, late deceaſed, at his own Houſe at <hi>Kellet</hi> in <hi>Lancaſhire,</hi> yet lives in the Spirit in our remembrance of his works and labour of love, with us in out Ser<g ref="char:EOLhyphen"/>vice all along, as we travelled in the Truth; ſoon after it appeared amongſt us, being well informed in our ſelves by a Meſſenger of God, ſent of him into our North Country, calling us out of the worlds worſhips and forms, and likeneſſes, to the ſubſtance, Jeſus Chriſt, <hi>&amp;c.</hi> his Light within Gods Covenant, ſo came our peace made mani<g ref="char:EOLhyphen"/>feſt within, in our Hearts, Souls, Minds and Spirits, and ſo came to know what did belong to our peace in that day of our Viſitation from on high from God, by his Light, Grace and Spirit within, and ſo were called to go to our neighbouring County, called <hi>Cumber<g ref="char:EOLhyphen"/>land,</hi> that they might come to the ſame, the Light of Chriſt Jeſus within; in whom and by whom we found that, which we had loſt
+<pb n="26" facs="tcp:48441:14"/>in <hi>Adam</hi> in the fall, thorow diſobedience to God, we found Souls, Life and Peace.—This was our meſſage all along in that Coun<g ref="char:EOLhyphen"/>ty: And afterward in <hi>Scotland,</hi> in <hi>Northumberland, Biſhoprick, York<g ref="char:EOLhyphen"/>ſhire,</hi> and in our own County <hi>Lancaſhire,</hi> and in ſeveral Counties in <hi>England,</hi> with <hi>London</hi> City, and were well refreſhed, meeting with our Brethren there, who had been in the ſame work with us, and had our reward from God and Life, and peace in our own Bo<g ref="char:EOLhyphen"/>ſoms, that which will laſt and indure, and abode with us in all forms and tempeſts, great and high Winds, made great Toſſings, and put great fears upon many: But bleſſed everlaſtingly be the Name of our God, in which we firſt believed, and went out; none of theſe things did move us, ſo that we might finiſh our courſe, and teſtings, as he my dear Brother and fellow Traveller has done and ended his days in peace: And I farther give in my Teſtimony con<g ref="char:EOLhyphen"/>cerning our dear Brother <hi>Robert Widders,</hi> who was a Man as my ſelf, ſtricken in years, yet was willingly given up at the requirings of the Lord, as to go into ſome parts of <hi>America,</hi> where we arrived at <hi>Barbados</hi> in ſeven weeks time, where we viſited our Friends and Brethren in the Truth, and from thence he with other Friends paſ<g ref="char:EOLhyphen"/>ſed to <hi>Jamaica,</hi> and was very ſerviceable there, and from thence <hi>Robert Widders</hi> with other Friends paſſed to <hi>Virginia,</hi> and ſo to <hi>Mary-land;</hi> after that <hi>Robert</hi> with other Friends paſſed thorow the Wilderneſs, to Eaſt and Weſt <hi>Jerſey, Long-Iſland, New-York,</hi> and ſo by ſeveral Iſlands to <hi>Rhode-Iſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and,</hi> and <hi>New England,</hi> where we had many precious meetings amongſt Friends: And after our Ser<g ref="char:EOLhyphen"/>vice was performed in <hi>New-England</hi> with much difficulty, <hi>Robert Widders</hi> with other Friends, returned thorow the Wilderneſs to <hi>Vir<g ref="char:EOLhyphen"/>ginie,</hi> and <hi>Mary-land</hi> again, and had good Service there in our Jour<g ref="char:EOLhyphen"/>ney, where many were turned from the dumb Idol, Shepherds to ſerve the living God in the Spirit and in the Truth: And ſo with much hardſhip in the Wilderneſs, having nodwelling places to lay our Heads in, but in the open wilderneſs, ſeveral Nights lodged among the <hi>Indians</hi> and <hi>Savage</hi> Creatures, who did roar and make a noiſe, when we had kindled a Fire to w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rm us with Sticks—Alſo we paſſed thorow ſome parts of <hi>Penſilbania,</hi> as now ſo called, where was ſome <hi>Deans</hi> and <hi>Swedes,</hi> which entortained us quietly, and ſo to <hi>Maryland</hi> as above-ſaid. — And when we had done our ſervice for God in divers parts of <hi>America,</hi> from <hi>Maryland</hi> (having taken leave of our Brethren) we came for <hi>Old England</hi> our Native Coun<g ref="char:EOLhyphen"/>try,
+<pb n="27" facs="tcp:48441:14"/>thorow the mercy of God, and was glad to meet with our an<g ref="char:EOLhyphen"/>cient Brethren in the Unity of the Truth, both in <hi>London</hi> and ſeve<g ref="char:EOLhyphen"/>ral parts of this Nation, who received us in love, and we them, each having our reward from God of well doing; who was, and is the deliverer, keeper and preſervet of his people, throughout all Ages, to him be Praiſe, Honour and Glory for ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>James Lancaſter.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>Richard Lancaſter <hi>his Teſtimony concerning</hi> Robert Widders.</head>
+            <p>AS for our dear Brother in the Lord, <hi>Robert Widders</hi> deceaſed, this little Teſti<g ref="char:EOLhyphen"/>mony roſe in my heart to bear for him. He was a man of a clear underſtand<g ref="char:EOLhyphen"/>ing, and ſound in Judgment in the things that pertains to the way and worſhip of the Lord. And as I may truly ſay, he was as one of the Antients of <hi>Iſrael,</hi> who follow<g ref="char:EOLhyphen"/>ed the Lord fully whilſt he had a day on this ſide the Grave: for his innocent life and blameleſs Converſation did adorn his profeſſion, and brought honour to the Lord, and now everlaſting Joy and Felicity is his Reward. — For indeed he was a wiſe man, who built upon the ſure Foundation that endures for ever, for all the Storms and Winds could not ſhake this true man, who hath many times been Tryed divers waies, and yet never did ſhrink. So my deſire to the Lord is, that in his Footſteps of Truth I may walk, which is of more worth than bare talk.</p>
+            <closer>
+               <signed>Richard Lancaſter.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>G.F<hi>'s Teſtimony concerning</hi> Robert Widders.</head>
+            <p>MAny here are the Teſtimonies of the Sufferings, and Travels of our Dear Bro<g ref="char:EOLhyphen"/>ther <hi>Robert Widders,</hi> both of his Neighbours and Friends that very well knew him, and his faithfulneſs to the Lord, and his Godly Converſation which became the Goſpel of Chriſt, which he did profeſs; who in his Day, was as a Son of Thunder againſt Sin, Wickedneſs and Unfaithfulneſs in People that did not walk according to what they profeſt. After that he was turned from the Darkneſs, and to the Light the Life in Chriſt, and from the power of Satan to God. He was very Valiant for his Name and Truth, and often did Jeopardy his Life for the ſame, for I knew him all along from his Convincement; and he often Traveled with me, and in great hard<g ref="char:EOLhyphen"/>ſhips many times: He Travelled with me into <hi>Scotland,</hi> and ſeveral times I was had before the Governours, and he abode with me, and did not forſake me. And when I was had before <hi>Oliver</hi>'s Council at <hi>Edenburgh</hi> in <hi>Scotland,</hi> and they Baniſhed me out of <hi>Scotland,</hi> he was with me; and alſo when I was Baniſhed out of <hi>Johnſons</hi> in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and put over the Water with a Company of Souldiers, he was one that was Baniſhed out of the City with me, and many hardſhips both in <hi>Scotland</hi> and <hi>England,</hi> and other places he went through with me, but the Lord's eternal Arm and Power did ſupport us. And when <hi>B<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th</hi>'s Army was up, he was made to ride among them
+<pb n="16" facs="tcp:48441:15" rendition="simple:additions"/>with a Twig in his Hand, and told them, <hi>The Lord with his Rod of Iron would break them to pieces;</hi> and the Lord preſerved his Life among them, but they took his Horſe from him, and in a few daies after they were all broken to pieces, and ſcat<g ref="char:EOLhyphen"/>tered.</p>
+            <p>And about 1670. he Travelled with me into <hi>America, Barbados, Jamaica, Virginia</hi> and <hi>Maryland,</hi> and through the Wilderneſs to <hi>Long Iſland,</hi> and from thence to <hi>Rhode Iſland,</hi> and many other places; and likewiſe back again from <hi>Rhode Iſland</hi> through the Wilderneſs to <hi>Maryland,</hi> lying in the Woods, whether it was Winter or Sum<g ref="char:EOLhyphen"/>mer many times, through great perils and danger of wild Beaſts, and Men Eaters, but the Lord carried us by his Arm and Power over all, and out of the fear of all. And many bleſſed and precious Meetings we had both among Friends and Friendly People, and the <hi>Indian</hi> Emperours, Kings, and Councils of their People. And the Lord by his power preſerved us from the Pyrats and Robbers on the Sea, who were very many at that time, and brought him well home to his Wife. And he was both an Elder and Pillar, and one of God's Valiants in his heavenly <hi>Iſrael,</hi> who died in the Divine, Holy, and Precious Faith, which was his Victory in all his inward and outward Sufferings, who did not account his Life dear for Chriſt's ſake, as knowing that they that Die with him, ſhall Live with him; and they which Suffer with him, ſhall Reign with him, and bleſſed are they that die in the Lord, they Reſt from their Labour, and their Works follow them, as certainly this Faithful <hi>Robert Widders</hi> did; and tho the loſs of his outward preſence to his dear Wife and Family is great, yet they may be glad in the Lord they enjoy him in the Spirit; For Chriſt ſaid, <hi>He that believeth in me, tho he were dead, yet he ſhall Live</hi> (mark Live) <hi>and whoſoever Liveth and believeth in me, ſhall never die,</hi> John 11.25, 26. For he that believeth in Chriſt hath eternal and everlaſting Life, a Life in Chriſt that ſhall never die, tho they do put off their outward Tabernacle or Earthly Houſe, <hi>Yet they know they have a Build<g ref="char:EOLhyphen"/>ing of God, a Houſe not made with hands, Eternal in the Heavens,</hi> 2 Cor. 5. And of this I do believe our dear Friend and Brother <hi>Robert Widders</hi> had an Aſſurance; and ſo I am ſatisfied that he is well in the Lord: Unto Him for ever be Glory, who is, and hath been, and will be the Support, Succour. Refreſher, Strength, and Up<g ref="char:EOLhyphen"/>holder of all his People: Glory over all be unto Him and His Holy Name forever. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:48441:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
